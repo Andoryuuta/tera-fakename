@@ -1,0 +1,16 @@
+{
+  "name": "ando-tera-data",
+  "version": "1.0.0",
+  "description": "Custom additions to tera-data",
+  "main": "package.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andoryuuta/ando-tera-data.git"
+  },
+  "author": "Andoryuuta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andoryuuta/ando-tera-data/issues"
+  },
+  "homepage": "https://github.com/Andoryuuta/ando-tera-data#readme"
+}

@@ -1,0 +1,1 @@
+uint32 result # 0 = usable, 1 = already in use, 2 = "That isn't an acceptable Character name."
